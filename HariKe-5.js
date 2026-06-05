@@ -1,0 +1,18 @@
+let nama = "hilmy zaky";
+let umur = 20;
+let hobi = "gaming";
+let tinggi = 190;
+let berat_badan = 60;
+let makanan_favorit = "batagor nugget sosis burger";
+let kota_asal = "makassar";
+let profinsi= "sulawesi selatan";
+let tahun_lahir = 2005;
+console.log("nama:" + nama);
+console.log("umur:" + umur);
+console.log("hobi:" + hobi);
+console.log("tinggi: " + tinggi);
+console.log("berat badan: " + berat_badan);
+console.log("makanan favorit: " + makanan_favorit);
+console.log("kota asal: " + kota_asal);
+console.log("profinsi: " + profinsi);
+console.log("tahun lahir: " + tahun_lahir);
